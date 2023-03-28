@@ -18,14 +18,20 @@
 
 # Descrierea tematicii și funcționalităților aplicației
 (maxim 500 de cuvinte)
-	
+
+- Alegere tema
+- 
 # Diagramă cu arhitectura aplicației 
 (microserviciile care vor fi prezente și conexiunile dintre ele)
 	
 # Scurtă descriere a componentelor aplicației și a tehnologiilor folosite pentru ele și pentru conectarea lor
 (maxim 500 de cuvinte)
-	
-# O scurtă descriere a responsabilităților fiecărui membru al echipei în cadrul proiectului
+
+- Serviciu Autentificare & Autorizare
+- Business Logic
+- Database
+- Database manager
+- Database I/O
 	
 # Link-uri repertorii
 
