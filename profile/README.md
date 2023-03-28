@@ -1,12 +1,23 @@
-## Hi there 👋
+# Numele și grupa membrilor echipei:
+  Amza Andreea-Georgiana 343C3
+  
+  Cioban George-Adrian 343C3
+  
+  Damian Robert-Eugen 34XC2
+  
+  Vasile Patricia 343C3
 
-<!--
 
-**Here are some ideas to get you started:**
+# Descrierea tematicii și funcționalităților aplicației
+(maxim 500 de cuvinte)
+	
+# Diagramă cu arhitectura aplicației 
+(microserviciile care vor fi prezente și conexiunile dintre ele)
+	
+# Scurtă descriere a componentelor aplicației și a tehnologiilor folosite pentru ele și pentru conectarea lor
+(maxim 500 de cuvinte)
+	
+# O scurtă descriere a responsabilităților fiecărui membru al echipei în cadrul proiectului
+	
+# Link-uri repertorii
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
