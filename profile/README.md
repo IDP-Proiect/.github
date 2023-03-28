@@ -1,11 +1,19 @@
 # Numele și grupa membrilor echipei:
   Amza Andreea-Georgiana 343C3
   
+  	(resonsabilitati)
+  
   Cioban George-Adrian 343C3
   
+  	(resonsabilitati)
+
   Damian Robert-Eugen 34XC2
   
+ 	(resonsabilitati)
+
   Vasile Patricia 343C3
+  
+ 	(resonsabilitati)
 
 
 # Descrierea tematicii și funcționalităților aplicației
